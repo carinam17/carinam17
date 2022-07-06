@@ -2,11 +2,18 @@ I’m @carinam17, a writer, educator, and musician.
 
 I’m interested in communication, writing, and empowering others through education and project-based approaches to STEM education. 
 
-I’m currently learning AWS, data science, and flamenco guitar techniques. 
+I’m currently learning AWS, building project-based approaches to math and science education, and practicing guitar. 
+
+
+
+
 
 <!---I’m looking to collaborate on --->
 
-Reach out to me: CONCAT (my username, @gmail.com)
+
+
+
+
 
 <!---
 carinam17/carinam17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
