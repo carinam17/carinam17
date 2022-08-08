@@ -1,6 +1,6 @@
-I’m @carinam17, a writer, educator, and musician. 
+Carina Mata - Writer, educator, and musician
 
-I’m passionate about communication, guitar performance, tech, and empowering others through education.
+I’m passionate about communication, guitar performance, mathematics, tech, and empowering others through education.
 
 
 
