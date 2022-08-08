@@ -1,7 +1,6 @@
 I’m @carinam17, a writer, educator, and musician. 
 
-I’m passionate about communication, writing, and empowering others through education and project-based approaches to STEM education. 
-
+I’m passionate about communication, guitar performance, tech, and empowering others through education.
 
 
 
