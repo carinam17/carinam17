@@ -1,8 +1,8 @@
 Carina Mata - Writer, educator, and musician
 
-I’m passionate about communication, guitar performance, math, tech, and empowering others through education.
+I’m passionate about communication, guitar performance, math, programming, and empowering others through education.
 
-
+Bachelor of Science in Mathematics - UT Austin
 
 <!---
 I’m currently learning AWS, building project-based approaches to math and science education, and practicing guitar. 
