@@ -1,6 +1,15 @@
-Carina Mata - Writer, educator, and musician
+Carina Mata - Writer, educator, and data scientist
 
-I’m passionate about communication, guitar performance, math, programming, and empowering others through education.
+#### Interests
+
+- Communication
+- Guitar performace
+- Creative writing
+- Mathematics (especially number theory)
+- Programming (R. Python, PySpark)
+- Empowering others through education. 
+
+#### Education
 
 Bachelor of Science and Arts in Mathematics - UT Austin
 
